@@ -1,0 +1,47 @@
+abstract: Install all the CPAN modules needed by SOSA
+author: 'Gavin Henry  C<< <ghenry@suretecsystems.com> >>'
+build_requires:
+  Test::Distribution: 1.23
+  Test::More: 0.62
+distribution_type: module
+generated_by: Module::Install version 0.61
+license: gpl
+name: Task-SOSA
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Catalyst: 5.66
+  Catalyst::Model::LDAP: 0.14
+  Catalyst::Plugin::Authentication: 0
+  Catalyst::Plugin::Authentication::Credential::Password: 0
+  Catalyst::Plugin::Authentication::Store::Minimal: 0
+  Catalyst::Plugin::Authorization::ACL: 0
+  Catalyst::Plugin::Authorization::Roles: 0
+  Catalyst::Plugin::DefaultEnd: 0
+  Catalyst::Plugin::Email::Page: 0
+  Catalyst::Plugin::FillInForm: 0
+  Catalyst::Plugin::FormValidator: 0
+  Catalyst::Plugin::Prototype: 0
+  Catalyst::Plugin::Session: 0
+  Catalyst::Plugin::Session::State::Cookie: 0
+  Catalyst::Plugin::Session::Store::File: 0
+  Catalyst::Plugin::StackTrace: 0
+  Catalyst::Plugin::Static::Simple: 0
+  Class::Base: 0.03
+  Config::Tiny: 2.05
+  Crypt::SmbHash: 0.12
+  DateTime: 0
+  Digest::MD5: 2.36
+  Digest::SHA1: 2.11
+  List::MoreUtils: 0.19
+  MIME::Base64: 3.07
+  Net::LDAP: 0.33
+  Path::Class: 0
+  Readonly: 1.03
+  Regexp::DefaultFlags: 0.01
+  Samba::LDAP: 0.02_01
+  Unicode::MapUTF8: 1.11
+  YAML: 0
+version: 0.01
