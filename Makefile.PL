@@ -39,14 +39,16 @@ requires(
  	'DateTime'									=> '0',
 	'Digest::MD5'           					=> '2.36',
 	'Digest::SHA1'          					=> '2.11',
+	'File::Path'								=> '0',
 	'List::MoreUtils'       					=> '0.19',
 	'MIME::Base64'          					=> '3.07',
 	'Net::LDAP'             					=> '0.33',
 	'Path::Class'								=> '0',
 	'Readonly'              					=> '1.03',
 	'Regexp::DefaultFlags'  					=> '0.01',
-	'Samba::LDAP'								=> '0.02_01',
+	'Samba::LDAP'								=> '0.01',
 	'Unicode::MapUTF8'      					=> '1.11',
+	'UNIVERSAL::require'						=> '0.10',
  	'YAML'										=> '0',
 );
     
