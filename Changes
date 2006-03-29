@@ -1,5 +1,8 @@
 Revision history for Task-SOSA
 
+1.01  Wed Mar 29 2006
+      - Added Catalyst::Plugin::Authentication::Store::LDAP
+
 1.00  Tues Mar 28 2006
       - Updated for new release of Samba-LDAP 
         and bad CPAN upload version number

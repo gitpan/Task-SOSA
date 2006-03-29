@@ -2,7 +2,7 @@ package Task::SOSA;
 
 use strict;
 
-our $VERSION = '1.00';
+our $VERSION = '1.02';
 
 1; # Magic true value required at end of module
 __END__
@@ -14,7 +14,7 @@ Task::SOSA - Install all the CPAN modules needed by SOSA
 
 =head1 VERSION
 
-This document describes Task::SOSA version 1.00
+This document describes Task::SOSA version 1.02
 
 
 =head1 SYNOPSIS

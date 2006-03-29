@@ -24,6 +24,7 @@ requires(
     'Catalyst::Plugin::FillInForm'      		=> '0',
     'Catalyst::Plugin::Authentication'  		=> '0',
     'Catalyst::Plugin::Authentication::Store::Minimal'       => '0',
+    'Catalyst::Plugin::Authentication::Store::LDAP'          => '0',
     'Catalyst::Plugin::Authentication::Credential::Password' => '0',
     'Catalyst::Plugin::Authorization::Roles'    => '0',
     'Catalyst::Plugin::Authorization::ACL'      => '0',
