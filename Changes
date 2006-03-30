@@ -1,5 +1,9 @@
 Revision history for Task-SOSA
 
+1.03  Thu Mar 30 2006
+      - Version mistake and missing
+        Catalyst::Plugin::Authentication::Store::LDAP in docs
+
 1.01  Wed Mar 29 2006
       - Added Catalyst::Plugin::Authentication::Store::LDAP
 

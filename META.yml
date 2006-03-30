@@ -47,4 +47,4 @@ requires:
   UNIVERSAL::require: 0.10
   Unicode::MapUTF8: 1.11
   YAML: 0
-version: 1.02
+version: 1.03
