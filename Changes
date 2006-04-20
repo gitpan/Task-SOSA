@@ -1,5 +1,8 @@
 Revision history for Task-SOSA
 
+1.04  The Apr 20 2006 
+      - Added Catalyst::View::TT
+
 1.03  Thu Mar 30 2006
       - Version mistake and missing
         Catalyst::Plugin::Authentication::Store::LDAP in docs
